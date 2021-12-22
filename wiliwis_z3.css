@@ -1,0 +1,14 @@
+div 
+{
+font-size: 1cm;
+color: blue;
+}
+@media screen and (min-width:390px) and (max-width:820px) 
+{
+div 
+{
+font-size: 2cm;
+color: red;
+}
+}
+/* Oscar Wiliwis */

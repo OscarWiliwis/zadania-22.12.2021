@@ -1,0 +1,23 @@
+/* 1 przycisk */
+.zad2{
+	background-color:#1E90FF;
+	position: absolute;
+    left: 850px;
+	/*2 przycisk */
+}
+.zad3{
+	background-color:white;
+	position: absolute;
+    right: 875px;
+	/* 3 przycisk */
+}
+.zad4{
+	background-color:white;
+	position: absolute;
+    right: 850px;
+}
+.kod{
+	background-color:grey;
+	position: absolute;
+    left: 825px;
+/* Oscar Wiliwis 2P */

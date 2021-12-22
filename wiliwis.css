@@ -1,0 +1,11 @@
+div
+{
+background-color: red;
+}
+@media  screen ,projection, tty, tv {
+div 
+{
+background-color:green;
+}
+}
+/* Oscar Wiliwis */
